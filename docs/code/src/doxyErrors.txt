@@ -1,0 +1,229 @@
+/home/omod2720/aria/include/Exceptions.h:6: warning: the name 'Exceptions/h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/omod2720/aria/include/Exceptions.h:21: warning: the name 'Exceptions/h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/omod2720/aria/include/ItemLogic.h:6: warning: the name 'ItenLogic.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/omod2720/aria/include/MapGenerator.h:9: warning: the name 'MapGen.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/omod2720/aria/include/Puzzels.h:5: warning: the name 'Puzzel.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/omod2720/aria/include/GameState.h:14: warning: Compound GameState is not documented.
+/home/omod2720/aria/include/PlaceboClass.h:7: warning: Compound PlaceboClass is not documented.
+/home/omod2720/aria/include/Exceptions.h:27: warning: Found unknown command '\Exception'
+/home/omod2720/aria/include/Room.h:82: warning: Member isHallway() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:83: warning: Member GetInventory() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:88: warning: Member AddNPC(NonPlayerCharacter npc) (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:81: warning: Member isLocked (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:84: warning: Member _items (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:85: warning: Member _npc (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:86: warning: Member _hallway (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:82: warning: Member isHallway() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:83: warning: Member GetInventory() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:88: warning: Member AddNPC(NonPlayerCharacter npc) (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:81: warning: Member isLocked (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:84: warning: Member _items (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:85: warning: Member _npc (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:86: warning: Member _hallway (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:82: warning: Member isHallway() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:83: warning: Member GetInventory() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:88: warning: Member AddNPC(NonPlayerCharacter npc) (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:81: warning: Member isLocked (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:84: warning: Member _items (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:85: warning: Member _npc (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:86: warning: Member _hallway (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:82: warning: Member isHallway() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:83: warning: Member GetInventory() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:88: warning: Member AddNPC(NonPlayerCharacter npc) (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:81: warning: Member isLocked (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:84: warning: Member _items (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:85: warning: Member _npc (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:86: warning: Member _hallway (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
+/home/omod2720/aria/include/Gameplay.h:12: warning: parameters of member Gameplay::GameLoop are not (all) documented
+/home/omod2720/aria/include/GameState.h:22: warning: Member MoveLeft() (function) of class GameState is not documented.
+/home/omod2720/aria/include/GameState.h:23: warning: Member MoveUp() (function) of class GameState is not documented.
+/home/omod2720/aria/include/GameState.h:24: warning: Member MoveDown() (function) of class GameState is not documented.
+/home/omod2720/aria/include/GameState.h:25: warning: Member BackToHallway() (function) of class GameState is not documented.
+/home/omod2720/aria/include/GameState.h:32: warning: Member PickUp(std::string itemName, int spot) (function) of class GameState is not documented.
+/home/omod2720/aria/include/GameState.h:36: warning: Member GetCurrentRoom() const (function) of class GameState is not documented.
+/home/omod2720/aria/include/GameState.h:37: warning: Member GetCurrentHallway() const (function) of class GameState is not documented.
+/home/omod2720/aria/include/GameState.h:33: warning: Member currentHallway (variable) of class GameState is not documented.
+/home/omod2720/aria/include/GameState.h:34: warning: Member currentStoryRoom (variable) of class GameState is not documented.
+/home/omod2720/aria/include/GameState.h:35: warning: Member player (variable) of class GameState is not documented.
+/home/omod2720/aria/include/GameState.h:26: warning: argument 'value' of command @param is not found in the argument list of GameState::Drop(std::string itemName, int spot)
+/home/omod2720/aria/include/GameState.h:31: warning: The following parameters of GameState::Drop(std::string itemName, int spot) are not documented:
+  parameter 'itemName'
+  parameter 'spot'
+/home/omod2720/aria/include/NonPlayerCharacter.h:34: warning: Member Interact() override (function) of class Guard is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:17: warning: Member GetName() (function) of class NonPlayerCharacter is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:23: warning: Member _name (variable) of class NonPlayerCharacter is not documented.
+/home/omod2720/aria/include/Room.h:31: warning: Member Hallway(std::string name, std::string description) (function) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:32: warning: Member isHallway() override (function) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:37: warning: Member GuardPresent() (function) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:38: warning: Member AddNPC(NonPlayerCharacter npc) (function) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:33: warning: Member _left (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:34: warning: Member _right (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:35: warning: Member _up (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:36: warning: Member _down (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:39: warning: Member _npc (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:32: warning: Member isHallway() override (function) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:37: warning: Member GuardPresent() (function) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:38: warning: Member AddNPC(NonPlayerCharacter npc) (function) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:33: warning: Member _left (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:34: warning: Member _right (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:35: warning: Member _up (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:36: warning: Member _down (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:39: warning: Member _npc (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:32: warning: Member isHallway() override (function) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:37: warning: Member GuardPresent() (function) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:38: warning: Member AddNPC(NonPlayerCharacter npc) (function) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:33: warning: Member _left (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:34: warning: Member _right (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:35: warning: Member _up (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:36: warning: Member _down (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:39: warning: Member _npc (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:32: warning: Member isHallway() override (function) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:37: warning: Member GuardPresent() (function) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:38: warning: Member AddNPC(NonPlayerCharacter npc) (function) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:33: warning: Member _left (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:34: warning: Member _right (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:35: warning: Member _up (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:36: warning: Member _down (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:39: warning: Member _npc (variable) of class Hallway is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
+/home/omod2720/aria/include/Exceptions.h:27: warning: Found unknown command '\Exception'
+/home/omod2720/aria/include/Exceptions.h:27: warning: Found unknown command '\Exception'
+/home/omod2720/aria/include/Item.h:17: warning: parameters of member Item::Item are not (all) documented
+/home/omod2720/aria/include/Item.h:36: warning: Member _name (variable) of class Item is not documented.
+/home/omod2720/aria/include/Item.h:37: warning: Member _description (variable) of class Item is not documented.
+/home/omod2720/aria/include/Item.h:33: warning: parameters of member Item::UseItem are not (all) documented
+/home/omod2720/aria/include/ItemLogic.h:16: warning: parameters of member ItemLogic::ItemOptions are not (all) documented
+/home/omod2720/aria/include/NonPlayerCharacter.h:78: warning: Member Interact() override (function) of class JordanPeterson is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:17: warning: Member GetName() (function) of class NonPlayerCharacter is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:23: warning: Member _name (variable) of class NonPlayerCharacter is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:67: warning: Member Interact() override (function) of class KermitTheFrog is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:17: warning: Member GetName() (function) of class NonPlayerCharacter is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:23: warning: Member _name (variable) of class NonPlayerCharacter is not documented.
+/home/omod2720/aria/include/Room.h:82: warning: Member isHallway() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:83: warning: Member GetInventory() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:88: warning: Member AddNPC(NonPlayerCharacter npc) (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:81: warning: Member isLocked (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:84: warning: Member _items (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:85: warning: Member _npc (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:86: warning: Member _hallway (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
+/home/omod2720/aria/include/Logic.h:30: warning: parameters of member Logic::EndGame are not (all) documented
+/home/omod2720/aria/include/Logic.h:23: warning: parameters of member Logic::InputHandler are not (all) documented
+/home/omod2720/aria/include/MapGenerator.h:21: warning: Member DisplayMap() (function) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:22: warning: Member Deallocate() (function) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:23: warning: Member R1 (variable) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:24: warning: Member R2 (variable) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:25: warning: Member R3 (variable) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:26: warning: Member R4 (variable) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:27: warning: Member R5 (variable) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:28: warning: Member R6 (variable) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:29: warning: Member R7 (variable) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:30: warning: Member R8 (variable) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:31: warning: Member hallway1 (variable) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:32: warning: Member hallway2 (variable) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:33: warning: Member hallway3 (variable) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:34: warning: Member rooms (variable) of class MapGen is not documented.
+/home/omod2720/aria/include/MapGenerator.h:20: warning: return type of member MapGen::GenerateMap is not documented
+/home/omod2720/aria/include/MovementLogic.h:17: warning: parameters of member MovementLogic::MovementOptions are not (all) documented
+/home/omod2720/aria/include/NonPlayerCharacter.h:56: warning: Member Interact() override (function) of class Nicole is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:17: warning: Member GetName() (function) of class NonPlayerCharacter is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:23: warning: Member _name (variable) of class NonPlayerCharacter is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:17: warning: Member GetName() (function) of class NonPlayerCharacter is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:18: warning: Member Interact() (function) of class NonPlayerCharacter is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:23: warning: Member _name (variable) of class NonPlayerCharacter is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:16: warning: parameters of member NonPlayerCharacter::NonPlayerCharacter are not (all) documented
+/home/omod2720/aria/include/NPCLogic.h:17: warning: parameters of member NPCLogic::NPCOptions are not (all) documented
+/home/omod2720/aria/include/Player.h:15: warning: Member getItems() (function) of class Player is not documented.
+/home/omod2720/aria/include/Player.h:16: warning: Member getName() (function) of class Player is not documented.
+/home/omod2720/aria/include/Player.h:14: warning: Member items (variable) of class Player is not documented.
+/home/omod2720/aria/include/Puzzels.h:14: warning: return type of member Puzzel::gameWon is not documented
+/home/omod2720/aria/include/Puzzels.h:19: warning: Member play_round(int lower_bound, int upper_bound, int allowed_mistakes, int round) (function) of class Puzzel is not documented.
+/home/omod2720/aria/include/Puzzels.h:21: warning: Member playBlackJack() (function) of class Puzzel is not documented.
+/home/omod2720/aria/include/Puzzels.h:22: warning: Member playTrivia() (function) of class Puzzel is not documented.
+/home/omod2720/aria/include/Puzzels.h:24: warning: Member gameWin (variable) of class Puzzel is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:17: warning: Member isHallway() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:45: warning: Member Interact() override (function) of class Shahadat is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:17: warning: Member GetName() (function) of class NonPlayerCharacter is not documented.
+/home/omod2720/aria/include/NonPlayerCharacter.h:23: warning: Member _name (variable) of class NonPlayerCharacter is not documented.
+/home/omod2720/aria/include/Room.h:82: warning: Member isHallway() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:83: warning: Member GetInventory() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:88: warning: Member AddNPC(NonPlayerCharacter npc) (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:81: warning: Member isLocked (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:84: warning: Member _items (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:85: warning: Member _npc (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:86: warning: Member _hallway (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:82: warning: Member isHallway() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:83: warning: Member GetInventory() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:88: warning: Member AddNPC(NonPlayerCharacter npc) (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:81: warning: Member isLocked (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:84: warning: Member _items (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:85: warning: Member _npc (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:86: warning: Member _hallway (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:82: warning: Member isHallway() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:83: warning: Member GetInventory() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:88: warning: Member AddNPC(NonPlayerCharacter npc) (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:81: warning: Member isLocked (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:84: warning: Member _items (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:85: warning: Member _npc (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:86: warning: Member _hallway (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:82: warning: Member isHallway() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:83: warning: Member GetInventory() (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:88: warning: Member AddNPC(NonPlayerCharacter npc) (function) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:15: warning: Member GetName() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:16: warning: Member GetDescription() (function) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:81: warning: Member isLocked (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:84: warning: Member _items (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:85: warning: Member _npc (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:86: warning: Member _hallway (variable) of class StoryRoom is not documented.
+/home/omod2720/aria/include/Room.h:20: warning: Member _name (variable) of class Room is not documented.
+/home/omod2720/aria/include/Room.h:21: warning: Member _description (variable) of class Room is not documented.
